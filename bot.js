@@ -283,4 +283,4 @@ client.on('error', e => {
   console.log(chalk.b.red(e.replace(regToken, 'that was.redacted')));
 });
 
-client.login("PASTE YOUR BOT TOKEN");
+client.login("MTA2MDM5NzM0MTQ2MDQxNDUxNQ.G6chn3.jyL1fuGAqFxcIS3Vp8NO2OJw-j3k2wlF2dBi0M");
